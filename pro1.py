@@ -6,7 +6,7 @@ Created on Fri Aug  9 18:48:32 2024
 """
 
 import cv2
-
+print("Mayank")
 
 image = cv2.imread('example.jpg', cv2.IMREAD_GRAYSCALE)
        
